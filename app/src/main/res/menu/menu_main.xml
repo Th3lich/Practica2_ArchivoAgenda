@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.javil.practica2aad_archivoconagenda.MainActivity">
+    <item
+        android:id="@+id/importarcontactos"
+        android:orderInCategory="100"
+        android:title="@string/importarcontactos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/importarcsv"
+        android:title="@string/importarcsv" />
+</menu>

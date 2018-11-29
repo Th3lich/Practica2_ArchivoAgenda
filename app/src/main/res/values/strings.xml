@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica2AaD_ArchivoconAgenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_contacto">Nombre</string>
+    <string name="telefono_contacto">Telefono</string>
+    <string name="title_activity_lista_contactos">ListaContactos</string>
+    <string name="texto">¿En que memoria quieres\n guardar los datos?</string>
+    <string name="externa">Externa\nPrivada</string>
+    <string name="interna">Interna\nPrivada</string>
+    <string name="save">SAVE</string>
+    <string name="importarcontactos">Importar desde contactos</string>
+    <string name="importarcsv">Importar desde .csv</string>
+</resources>
